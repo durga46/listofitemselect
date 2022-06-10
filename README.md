@@ -221,4 +221,12 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 ## OUTPUT:
+![o1](https://user-images.githubusercontent.com/75235704/173041855-3c199acb-1c5e-4623-9bc7-ccc5c894de63.png)
+![o2](https://user-images.githubusercontent.com/75235704/173041868-41a6480f-5e9e-4d05-8015-2b1d2c4aa1f7.png)
+
+
+
+## RESULT:
+Thus a Simple Android Application to create a list using checkbox to display selected checkbox using Android Studio is developed and executed successfully.
