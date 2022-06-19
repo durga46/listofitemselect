@@ -1,4 +1,5 @@
-# Ex.No: 8 Build a program to show five checkboxes and toast selected checkboxes.
+# <p align="center"> Ex.No: 8 Build a program to show five checkboxes and toast selected checkboxes.</p>
+
 ## AIM:
 To create a list using checkbox to display selected checkbox item using Android Studio.
 
